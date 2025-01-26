@@ -1,4 +1,4 @@
-Heya. The name's Toop. I program sometimes.
+heya. the name's toop. i program sometimes.
 
 ----------------------------------------------
 
