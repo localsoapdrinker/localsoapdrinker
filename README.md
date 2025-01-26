@@ -12,7 +12,7 @@ Sexuality: Lesbian
 Discord: localsoapdrinker<br>
 Twitter: [thesoapdrinker](https://twitter.com/thesoapdrinker)<br>
 Tumblr: [localsoapdrinker](https://tumblr.com/localsoapdrinker)<br>
-Bluesky: [localsoapdrinker](https://bsky.app/profile/localsoapdrinker)<br>
+Bluesky: [localsoapdrinker](https://bsky.app/profile/localsoapdrinker.bsky.social)<br>
 Scratch: [localsoapdrinker](https://scratch.mit.edu/users/localsoapdrinker)<br>
 Neocitites: [localsoapdrinker](https://localsoapdrinker.neocities.org)
 
