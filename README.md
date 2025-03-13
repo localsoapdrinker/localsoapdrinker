@@ -2,7 +2,7 @@ heya. the name's toop. i program sometimes.
 
 ----------------------------------------------
 
-Age: 13<br>
+Age: 14<br>
 Birthday: February 23<br>
 Gender: Female<br>
 Sexuality: Lesbian
@@ -18,6 +18,6 @@ Neocitites: [localsoapdrinker](https://localsoapdrinker.neocities.org)
 
 ----------------------------------------------
 
-Favorite Game: Splatoon 3<br>
+Favorite Game: Celeste?<br>
 Favorite Engine: GameMaker Studio 2<br>
 Languages: Scratchblocks, JavaScript, Python, GML
